@@ -1,4 +1,4 @@
 Student Information File
-Name:
-Dob:
-Section:
+Name: Balasubramonian V
+Dob: 08.06.2026
+Section: MCA
